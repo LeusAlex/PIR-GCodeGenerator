@@ -1,0 +1,13 @@
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\bin\Debug\GCodeGeneratore.exe.config
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\bin\Debug\GCodeGeneratore.exe
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\bin\Debug\GCodeGeneratore.pdb
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.csproj.AssemblyReference.cache
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.Form2.resources
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.Form3.resources
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.Form4.resources
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.Properties.Resources.resources
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.csproj.GenerateResource.cache
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.csproj.CoreCompileInputs.cache
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.exe
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.pdb
+F:\Университет\C#\Проект ПИР\GCodeGeneratore\obj\Debug\GCodeGeneratore.GCodeGeneratore.resources
